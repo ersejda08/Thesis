@@ -1,0 +1,1229 @@
+entity_text_1	entity_text_2	label
+database traditional information retrieval techniques use a	histogram of keywords as the	USAGE
+representation but oral communication may offer	offer additional indices such as	USAGE
+a large database of tv	database of tv shows emotions and	PART_WHOLE
+of a distributed message-passing infrastructure for dialogue	infrastructure for dialogue systems which all	MODEL-FEATURE
+laboratory) the cclinc korean-to-english translation system consists of	of two core modules language understanding	PART_WHOLE
+robust efficient parsing of korean	parsing of korean (a verb	USAGE
+korean (a verb final language with overt	language with overt case markers relatively free	MODEL-FEATURE
+high quality translation via word	translation via word sense disambiguation and accurate	USAGE
+of applying automated evaluation techniques originally human	to the output of machine	USAGE
+at the intelligibility of mt	intelligibility of mt output a language	MODEL-FEATURE
+integrate a spoken language understanding system with intelligent	system with intelligent mobile agents that mediate	PART_WHOLE
+that simple interpolation methods like log-linear	improve the performance but fall	RESULT
+selects the word string with the	the best performance (typically, word	RESULT
+where each word string has been	a different lm actually, oracle	RESULT
+like a dynamic combiner with hard	using the reference we dynamic	USAGE
+for a dynamic language model combination to improve	improve the performance further oracle	RESULT
+to tagging lms with confidence	lms with confidence measures and picking	MODEL-FEATURE
+to the lm with the	the best confidence	MODEL-FEATURE
+models and error-correction rules for thai	rules for thai key prediction and thai-english	USAGE
+algorithm applying mutual information to reduce	reduce the error-correction rules our accuracy	USAGE
+than 99% accuracy in both	in both language identification and key	RESULT
+of possible sentence plans for a	a given text-plan input second, sentence-plan-ranker	MODEL-FEATURE
+spr uses ranking rules automatically learned	learned from training data we spr	USAGE
+select a sentence plan whose rating	than the top human-ranked sentence plan	COMPARE
+on the retrieval performance of a	of a translation memory system we bag-of-words	RESULT
+of both bag-of-words and segment order-sensitive string comparison methods and character-	over both character- and word-segmented data in local	USAGE
+find that indexing according to	to simple character bigrams produces a	USAGE
+optimum configuration bag-of-words methods are shown	equivalent to segment order-sensitive methods in terms	COMPARE
+of the range concatenation grammar [rcg] formalism has revealed	used in nlp in range	USAGE
+in particular, range concatenation languages [rcl] can be	parsed in polynomial time and many	MODEL-FEATURE
+rcg any tree adjoining grammar can be	parsed in o(n6) time in parsing	MODEL-FEATURE
+study a parsing technique whose purpose	efficiency of rcl parsers the non-deterministic	USAGE
+by a guide which uses	uses the shared derivation forest output by	USAGE
+a prior rcl parser for a	a suitable superset of l the wide	USAGE
+while paraphrasing is critical	both for interpretation and generation of natural language current paraphrases	USAGE
+present an unsupervised learning algorithm for identification	algorithm for identification of paraphrases from a	USAGE
+presents a formal analysis for a	words called alternative markers which other	TOPIC
+that the performance of a	of the formal analysis that is	RESULT
+as the operational semantics of natural	semantics of natural language applications improve, even	PART_WHOLE
+and a learning algorithm from structured	algorithm from structured data (based on	USAGE
+whether the quality of utterances	quality of utterances produced with	MODEL-FEATURE
+produced with trainable components can compete	compete with hand-crafted template-based or rule-based approaches in trainable	COMPARE
+evaluate a trainable sentence planner for a	for a spoken dialogue system by eliciting	USAGE
+that the trainable sentence planner performs better	than the rule-based systems and the	COMPARE
+construction of statistical models of wh-questions	models of wh-questions these models	MODEL-FEATURE
+built from shallow linguistic features of questions	features of questions are user's	MODEL-FEATURE
+of the predictive performance of our	of our models including training	RESULT
+of various training and testing factors on predictive	factors on predictive performance and	RESULT
+method for utterance classification that does	not require manual transcription of training	USAGE
+using conventional word-trigram recognition requiring manual	recognition requiring manual transcription in unsupervised	USAGE
+our method, unsupervised training is first	train a phone n-gram model for a	USAGE
+; the output of recognition	to a phone-string classifier the classification	USAGE
+developed a multi-strategy and multi-source approach to question answering which is	from different answering agents searching for	USAGE
+searching for answers in multiple	in multiple corpora the answering	PART_WHOLE
+corpora the answering agents adopt fundamentally	utilizing primarily knowledge-based mechanisms and the	USAGE
+of our answer resolution algorithm show a	over our baseline system in the	COMPARE
+task of scoring alternative speech	scoring alternative speech recognition hypotheses (srh) in terms	USAGE
+in a german corpus of 2.284	of 2.284 srhs as either	PART_WHOLE
+explain why phrase-based models outperform word-based	models outperform word-based models our language	COMPARE
+simple means: heuristic learning of phrase	translations from word-based alignments and lexical	USAGE
+alignments and lexical weighting of phrase	weighting of phrase translations surprisingly, phrases	MODEL-FEATURE
+and learning phrases from high-accuracy	phrases from high-accuracy word-level alignment models does not	PART_WHOLE
+system the model is designed	use in error correction with post-processing	USAGE
+focus on post-processing the output	post-processing the output of black-box	USAGE
+of the model based on	based on finite-state models demonstrate model	USAGE
+demonstrate the model 's ability	significantly reduce character and word error rate and automatic	RESULT
+results involving automatic extraction of translation	lexicons from printed text	USAGE
+application of ambiguity packing and stochastic disambiguation techniques for lexical-functional	techniques for lexical-functional grammars (lfg) to the	USAGE
+incorporates a linguistic parser/generator for lfg	parser/generator for lfg a transfer	USAGE
+lfg a transfer component for parse	component for parse reduction operating on	USAGE
+and a maximum-entropy model for stochastic	model for stochastic output selection furthermore, parser	USAGE
+systems an experimental evaluation of summarization	evaluation of summarization quality shows	TOPIC
+with guaranteed grammaticality of the	of the system output due to	MODEL-FEATURE
+use of priors in conditional	priors in conditional loglinear models and unknown	USAGE
+the resulting tagger gives a	a 97.24% accuracy on the	RESULT
+sources of training data suitable for	suitable for language modeling of conversational	USAGE
+supplemented with text from the	from the web filtered to	PART_WHOLE
+boost the translation quality of ebmt	quality of ebmt based on	RESULT
+by identifying hubs in an	in an automaton for hub	PART_WHOLE
+present a syntax-based constraint for word	constraint for word alignment known cohesion	USAGE
+a novel bootstrapping approach to named	approach to named entity (ne) tagging using concept-based	USAGE
+or pronoun seeds that correspond	to the concept for the	MODEL-FEATURE
+learners first, decision list is used	learn the parsing-based ne rules then, hidden	USAGE
+then, a hidden markov model is trained	on a corpus automatically tagged	USAGE
+describe a phrase-based unigram model for statistical	model for statistical machine translation that uses	USAGE
+training the blocks are learned	learned from source interval projections using an	PART_WHOLE
+results on block selection criteria based on	based on unigram counts and	USAGE
+a novel cooperative model for natural	model for natural language understanding in a	USAGE
+the javelin system integrates a	a flexible, planning-based architecture with a	PART_WHOLE
+on how javelin processes questions	javelin processes questions and retrieves	USAGE
+most likely answer candidates from the	the given text corpus the repository	PART_WHOLE
+browsing the repository of data	repository of data objects created by	PART_WHOLE
+customizable : ie paradigm that takes	advantage of predicate-argument structures we predicate	USAGE
+proposes the hierarchical directed acyclic graph (hdag) kernel for structured	kernel for structured natural language data the hdag	USAGE
+of common attribute sequences of the	of the hdags we question	MODEL-FEATURE
+that the hdag kernel is superior	to other kernel functions and baseline	COMPARE
+in inducing semantic verb classes from undisambiguated	from undisambiguated corpus data we subcategorization	MODEL-FEATURE
+involves clustering subcategorization frame (scf) distributions using	using the information bottleneck and nearest	USAGE
+effect of polysemy on the	on the clusters offering semantically	MODEL-FEATURE
+apply a decision tree based approach to pronoun	approach to pronoun resolution in spoken	USAGE
+deals with pronouns with np-	pronouns with np- and non-np-antecedents we features	MODEL-FEATURE
+designed for pronoun resolution in spoken	resolution in spoken dialogue and determine	USAGE
+for the topic detection and tracking tasks of new	tasks of new event detection in story	PART_WHOLE
+concerns the discourse understanding process in spoken	process in spoken dialogue systems this user	USAGE
+on the context of a	of a dialogue since candidates	MODEL-FEATURE
+since multiple candidates for the	for the understanding result can	USAGE
+to the ambiguity of speech	ambiguity of speech understanding it understanding	MODEL-FEATURE
+holding multiple candidates for understanding	candidates for understanding results and	USAGE
+based on statistical information obtained from	obtained from dialogue corpora unlike hand-crafted	MODEL-FEATURE
+holding multiple candidates for understanding	candidates for understanding results is	USAGE
+address appropriate user modeling in order	to generate cooperative responses to each	USAGE
+moreover, the models are automatically	derived by decision tree learning using real	MODEL-FEATURE
+all dimensions. dialogue strategies based on	on the user modeling are implemented	USAGE
+presents an unsupervised learning approach to building	building a non-english (arabic) stemmer the stemming	USAGE
+stemmer the stemming model is based	based on statistical machine translation and it	USAGE
+to any language that needs	that needs affix removal our resource-frugal	MODEL-FEATURE
+removal our resource-frugal approach results in	in 87.5% agreement with a	RESULT
+unsupervised component task-based evaluation using arabic	evaluation using arabic information retrieval indicates an	USAGE
+a small manually segmented arabic corpus and uses	bootstrap an unsupervised algorithm to build	USAGE
+build the arabic word segmenter from a	a large unsegmented arabic corpus the trigram	USAGE
+most probable morpheme sequence for a	a given input the language	MODEL-FEATURE
+input the language model is initially	a small manually segmented corpus of about	MODEL-FEATURE
+acquiring new stems from a	million word unsegmented corpus and model	PART_WHOLE
+re-estimate the model parameters with the	the expanded vocabulary and training	USAGE
+the resulting arabic word segmentation system achieves around	around 97% exact match accuracy on a	RESULT
+on a test corpus containing 28,449	containing 28,449 word tokens we highly	PART_WHOLE
+a small manually segmented corpus of the	of the language of interest.	MODEL-FEATURE
+problem of word sense disambiguation (wsd) is the	lack of manually sense-tagged data required for	USAGE
+automatically acquire sense-tagged training data from english-chinese	data from english-chinese parallel corpora which nouns	MODEL-FEATURE
+issue of domain dependence in evaluating	in evaluating wsd programs	MODEL-FEATURE
+a large, semantically annotated corpus resource as	the large-scale acquisition of word-semantic information e.g. domain-independent	USAGE
+vagueness and ambiguity in semantic	ambiguity in semantic annotation	MODEL-FEATURE
+nods and attentional focus in the	of a direction-giving task the nonverbal	MODEL-FEATURE
+present an eca that uses	that uses verbal and nonverbal grounding acts to update	USAGE
+approximation of hpsg produces a	that of ltag we	COMPARE
+number of analogies among the	among the sentences that it	MODEL-FEATURE
+criterionsm online essay evaluation service includes a	in student writing with essay-based	USAGE
+aspects of coherence in essays	coherence in essays this features	MODEL-FEATURE
+system identifies features of sentences	features of sentences based on	MODEL-FEATURE
+structure a support vector machine uses these	uses these features to capture	USAGE
+discourse elements intra-sentential quality is evaluated	evaluated with rule-based heuristics results baseline	TOPIC
+use the information redundancy in multilingual	redundancy in multilingual input to correct	MODEL-FEATURE
+the input documents are in	are in arabic and summary	MODEL-FEATURE
+the output summary is in	is in english typically, summary	MODEL-FEATURE
+realize that information in english	information in english we machine	MODEL-FEATURE
+presents a maximum entropy word alignment algorithm for arabic-english	based on supervised training data we training	USAGE
+mixture of supervised and unsupervised methods yields superior	yields superior performance the probabilistic	RESULT
+performance the probabilistic model used in	in the alignment directly models	USAGE
+presents a phrase-based statistical machine translation method based non-contiguous	based on non-contiguous phrases i.e. phrases	USAGE
+producing such phrases from a	from a word-aligned corpora is proposed.	PART_WHOLE
+proposed. a statistical translation model is also	deals such phrases as training	USAGE
+as a training method based on	maximization of translation accuracy as nist	USAGE
+evaluation metric translations are produced	of a beam-search decoder experimental training	USAGE
+in the automatic evaluation of machine	evaluation of machine translation and document	USAGE
+indicate that rankings produced by	highly with official rankings and pourpre	COMPARE
+identifying systematic patterns in translation	patterns in translation data using part-of-speech	PART_WHOLE
+to explore patterns in machine	patterns in machine translation output	PART_WHOLE
+the right translation of the	of the words in source	MODEL-FEATURE
+the wsd accuracy of smt	accuracy of smt models has never	RESULT
+contrary, current smt models do have	with dedicated wsd models and smt	COMPARE
+shown, that smt gives competitive	results to rule-based translation systems requiring translation	COMPARE
+on harvesting english-chinese bitexts of the	from the web and aligning	PART_WHOLE
+and harvesting english-chinese bitexts in a	from the web	PART_WHOLE
+task of machine translation (mt) evaluation is closely	task of sentence-level semantic equivalence classification this mt	COMPARE
+applying standard mt evaluation methods (bleu, nist, wer and per) to building	to building classifiers to predict	USAGE
+a novel classification method based on	based on per which leverages	USAGE
+which leverages part of speech information of the	of the words contributing to	MODEL-FEATURE
+show that mt evaluation techniques are able	produce useful features for paraphrase	RESULT
+entailment our technique gives a	improvement in paraphrase classification accuracy over all	RESULT
+automatically generates paraphrase sets from	sets from seed sentences to be	PART_WHOLE
+of internal lexical and syntactical variation in a	set of paraphrases : slightly	MODEL-FEATURE
+adequate as reference sets to be	used for mt evaluation	USAGE
+proposes an annotating scheme that encodes	that encodes honorifics (respectful words).	MODEL-FEATURE
+referents this referential information is vital	and improving machine translation outputs annotating honorifics	RESULT
+honorifics assigning ranks to referents	ranks to referents of the	MODEL-FEATURE
+set of candidate parses for each	each input sentence with probabilities	MODEL-FEATURE
+using additional features of the	of the tree as evidence.	MODEL-FEATURE
+or a generative model which takes	takes these features into account	USAGE
+on the boosting approach to ranking	approach to ranking problems described in	USAGE
+method to parsing the wall	parsing the wall street journal treebank the log-likelihood	USAGE
+the new model achieved 89.75%	achieved 89.75% f-measure a f-measure	RESULT
+of the sparsity of the feature space in the	in the parsing data experiments implementation	MODEL-FEATURE
+work on feature selection methods within log-linear	methods within log-linear (maximum-entropy) models although natural	PART_WHOLE
+method for discovering parallel sentences in comparable,	sentences in comparable, non-parallel corpora we maximum	USAGE
+we extract parallel data from large	from large chinese, arabic, and english non-parallel newspaper corpora we quality	PART_WHOLE
+a good-quality mt system can be	very small parallel corpus (100,000 words	USAGE
+looking up phrase translations in our	in our suffix array-based data structure we sampling	PART_WHOLE
+that combines syntactic information in the	in the source language with recent	MODEL-FEATURE
+project the source dependency parse onto the	the target sentence extract dependency	MODEL-FEATURE
+a state-of-the-art chinese word sense disambiguation model to choose	to choose translation candidates for a	USAGE
+find that word sense disambiguation does not	significantly better translation quality than the	RESULT
+at applying statistical models to structured	models to structured data in syntax-based	USAGE
+present a syntax-based statistical machine translation system based on	on a probabilistic synchronous dependency insertion grammar synchronous dependency	USAGE
+such a grammar from parallel	grammar from parallel corpora second, graphical	PART_WHOLE
+describe the graphical model for the	for the machine translation task which stochastic	USAGE
+outperforms the baseline system based on	on the ibm models in both	USAGE
+for a localized phrase-based prediction model for statistical	model for statistical machine translation (smt) the model	USAGE
+train a log-linear block bigram model which uses	which uses real-valued features (e.g. a	USAGE
+has used monolingual parallel corpora to extract	and generate paraphrases we bilingual	PART_WHOLE
+that allows paraphrases extracted from	from a bilingual parallel corpus to be	PART_WHOLE
+quality with paraphrases extracted from	extracted from automatic alignments	PART_WHOLE
+present a czech-english statistical machine translation system which performs	which performs tree-to-tree translation of dependency	USAGE
+compare our system's output with a	with a benchmark system	COMPARE
+with a two-step clustering process using sentence	process using sentence co-occurrences as features	USAGE
+results on addressee identification in four-participants	identification in four-participants face-to-face meetings using bayesian	USAGE
+information the classifiers show little	show little gain from information	RESULT
+most state-of-the-art evaluation measures for machine	measures for machine translation assign high	USAGE
+a new evaluation measure which explicitly	explicitly models block reordering as an	USAGE
+how some evaluation measures can be	introduction of word-dependent substitution costs the measure	RESULT
+the new measure with human	measure with human judgment has been	COMPARE
+correlation between automatic evaluation measures and human	measures and human judgment	COMPARE
+automatically predicting segment boundaries in spoken	boundaries in spoken multiparty dialogue we predicting	PART_WHOLE
+of using asr output as opposed	opposed to human transcription examination features	COMPARE
+(2) for predicting top-level boundaries the machine	boundaries the machine learning approach that combines	USAGE
+that the transcription errors inevitable in	inevitable in asr output have a	MODEL-FEATURE
+combination methods are an	of improving system performance this system	RESULT
+systems our combination methods rely on	rely on predominant senses which are	USAGE
+given an underspecified semantic representation (usr) of a	of a scope ambiguity compute usr	MODEL-FEATURE
+research using machine learning techniques to build	build a comma checker to be	USAGE
+in a grammar checker for basque	checker for basque after corpus	USAGE
+a little corpus of 100,000	of 100,000 words the commas	PART_WHOLE
+a bigger corpus written by	one unique author	MODEL-FEATURE
+presents an unsupervised learning approach to disambiguate	of various lexical and syntactic features from the	USAGE
+that this spectral clustering based approach outperforms the	the other clustering methods	COMPARE
+of building polarity-tagged corpus from html	corpus from html documents the html	PART_WHOLE
+construct a corpus consisting of	of 126,610 sentences	PART_WHOLE
+annotations and scenario templates - can	a standard text browser we prototype	USAGE
+in a prototype system designed to	of their industry watch function. we	USAGE
+on the interface to make	potential of ie-enhanced text browsers	PART_WHOLE
+advances in automatic speech recognition technology have put	naturally sounding dialog systems within reach.	USAGE
+issue of system response to users	by the natural language generation community though dialog	TOPIC
+research in generation can be	adapted to dialog systems and knowledge-based	USAGE
+of hand-crafting knowledge-based generation systems can be	by employing machine learning techniques	USAGE
+the tap-xl automated analyst's assistant is an	inflow of multilingual, multimedia data it languages	USAGE
+investigates some computational problems associated with	associated with probabilistic translation models that have	MODEL-FEATURE
+translation these models can be	pairs of probabilistic context-free grammars working in	MODEL-FEATURE
+way. two hardness results for	the class np are reported,	MODEL-FEATURE
+automatic evaluation metrics for machine	metrics for machine translation (mt) systems such bleu	USAGE
+english-chinese or english-japanese because word	of the word segmentation problem this bleu	MODEL-FEATURE
+use of bleu in word	bleu in word n-grams and its	USAGE
+use of bleu at the	at the character level eliminates	USAGE
+understand the model 's strengths	to other mt systems using visualization	COMPARE
+using this visualization method we mt	in an mt system in acl	USAGE
+importance to statistical machine translation (smt) but which	by the smt research community over smt	TOPIC
+about the computational complexity of some	problems of smt our computational	MODEL-FEATURE
+exists a polynomial time solution for any	of these hard problems (unless p	USAGE
+a simple mt-based paraphrasing technique and evaluating	and evaluating qa system performance on	USAGE
+as a token classification task using tagging	using various tagging strategies to combine	USAGE
+called infomagnets infomagnets aims at	at making exploratory corpus analysis accessible to	USAGE
+language and behavioral patterns in two	distinct domains: tutorial dialogue (kumar et	PART_WHOLE
+as an educational tool it protocol	unit on protocol analysis in an	USAGE
+them. the polarization of the	of the elementary structures controls the	USAGE
+controls the saturation of the	the final structure this grammar	MODEL-FEATURE
+kind of similarity between words	kind of word vectors in the	MODEL-FEATURE
+vectors i.e., lsa-based, cooccurrence-based and dictionary-based methods were similarity	kinds of similarity i.e., taxonomic	USAGE
+that the dictionary-based word vectors better reflect	better reflect taxonomic similarity while lsa-based	USAGE
+while the lsa-based and the cooccurrence-based word vectors better reflect	better reflect associative similarity	USAGE
+this paper, events are defined	defined as event terms and associated	MODEL-FEATURE
+on the event map constructed from	constructed from documents experimental	USAGE
+ferret an interactive question-answering (q/a) system designed to	of integrating automatic q/a applications into	USAGE
+approach to q/a known as	known as predictive questioning which attempts	USAGE
+structures in abstracts of research	abstracts of research articles in sentences	PART_WHOLE
+our approach, sentences in a	a given abstract are analyzed	PART_WHOLE
+number of abstracts from the	from the web and building	PART_WHOLE
+building a language model of abstract	model of abstract moves we concordancer	MODEL-FEATURE
+exploits the move-tagged abstracts for digital	abstracts for digital learning this web-based	USAGE
+independently valuable general-purpose nlp components into a	into a machine translation pipeline that capitalizes	PART_WHOLE
+san diego, verbs are represented	sets of subpredicates these subpredicates	MODEL-FEATURE
+when a verb is used	in a sentence they meaning	PART_WHOLE
+on the sentence in which	which the verb is used.	PART_WHOLE
+outlines a computational theory of human	theory of human plausible reasoning constructed from	MODEL-FEATURE
+logic the theory is expressed	in a content-independent formalism unlike logic	MODEL-FEATURE
+formalism unlike logic the theory	logic the theory specifies how	COMPARE
+drawn. the theory consists of	of a dimensionalized space of different	PART_WHOLE
+of different inference types and their	and their certainty conditions including meta-inference	MODEL-FEATURE
+variety of meta-inference types where the	where the inference depends on	MODEL-FEATURE
+two nodes path-based inference rules may be	using a binary relational calculus notation node-based inference	USAGE
+calculus notation node-based inference allows a	pattern of node structures node-based inference	USAGE
+node structures node-based inference rules can be	of a predicate calculus notation path-based inference	USAGE
+calculus notation path-based inference is more	efficient, while node-based inference is more	COMPARE
+explication of inheritance in hierarchies	inheritance in hierarchies are sketched.	MODEL-FEATURE
+commands or rules which are	or some mathematical expressions elaborate	USAGE
+use an augmented transition network as a	a procedural dialog model the model	USAGE
+use different dialog schemata proposed in	in empirical conversation analysis ; as	TOPIC
+for the verbal interactions of task-oriented	interactions of task-oriented dialogs	PART_WHOLE
+interpreting metaphors is an	process in human understanding of natural language this method	PART_WHOLE
+discusses a method of analyzing metaphors based on	number of generalized metaphor mappings each generalized	USAGE
+mappings each generalized metaphor contains a	contains a recognition network a basic	PART_WHOLE
+the literal meaning of input	meaning of input from their	MODEL-FEATURE
+while such decoding is an	incorporate numerous non-literal aspects of communication such communication	USAGE
+of powerful personal computers with integral	with integral graphics displays offers techniques	PART_WHOLE
+paper proposes interfaces based on	more traditional natural language interfaces	COMPARE
+flexp a bottom-up pattern-matching parser that we	flexibilities for restricted natural language input to	USAGE
+to the left corner parsing algorithm for context-free	algorithm for context-free grammars it parser	USAGE
+for the parser used in	in a natural language interface	USAGE
+prolog a programming language based on	based on logic with logic-based	USAGE
+extraposition grammars chat-80 translates english	chat-80 translates english questions into the	USAGE
+into the prolog subset of	the prolog subset of logic the logical	PART_WHOLE
+prolog cf. query optimisation in a	in a relational database finally, prolog	USAGE
+rough drafts conversation transcripts etc., have	significantly from neat texts posing misspelled	COMPARE
+use of expectations based surface	knowledge of surface english and on	USAGE
+figure out unknown words from context	words from context constrain word-senses	MODEL-FEATURE
+the possible word-senses of words	word-senses of words with multiple meanings ( ambiguity	MODEL-FEATURE
+fill in missing words ( ellipsis	words ( ellipsis ), and	PART_WHOLE
+and resolve referents ( anaphora	referents ( anaphora ). this	PART_WHOLE
+of using expectations to aid	understanding of scruffy texts has been	USAGE
+describes a natural language system which deals	usefully with ungrammatical input and describes	USAGE
+viewpoint. for english-japanese machine translation the syntax	translation the syntax directed approach is effective	USAGE
+roles. for japanese-english translation the semantics	translation the semantics directed approach is powerful	USAGE
+difference between japanese sentence structure and english	structure and english sentence structure which machine	COMPARE
+structure and surface representation of domain	representation of domain entities are grouped	MODEL-FEATURE
+use of multiple parsing strategies and recognition	for robust recognition of extra-grammatical input several language	USAGE
+with a control structure for an	for an entity-oriented parser some parsing	USAGE
+parser some parsing strategies that use	use the control structure and parses	USAGE
+parses a parser incorporating the	incorporating the control structure and the	PART_WHOLE
+as a proposition with implicit	with implicit fuzzy quantifiers which are	PART_WHOLE
+suppressing the fuzzy quantifier most in	in the proposition most birds	PART_WHOLE
+representing the meaning of a	of a proposition through the	MODEL-FEATURE
+semantics the meaning of a	of a proposition p, reasoning	MODEL-FEATURE
+approach to reasoning with dispositions which is	of a fuzzy syllogism syllogistic reasoning	USAGE
+fuzzy syllogism syllogistic reasoning with dispositions has an	bearing on commonsense reasoning as well	RESULT
+on the management of uncertainty in expert	uncertainty in expert systems as typicality	PART_WHOLE
+definition of typicality -- a	role in human cognition and is	RESULT
+paul a computer text generation system designed to	use of lexical substitutions specifically, pronominalization	USAGE
+choose between pronominalization superordinate substitution	between pronominalization superordinate substitution and noun	COMPARE
+strength of antecedence recovery for each	of the lexical substitutions and strength	MODEL-FEATURE
+against the strength of potential antecedence of each	the proper substitutions for these	MODEL-FEATURE
+conveying the meaning of an	of an utterance but global	MODEL-FEATURE
+grasp the global meaning of a	of a sentence even determiners	MODEL-FEATURE
+problem with determiners is their	their inherent ambiguity in logical	MODEL-FEATURE
+a particular interpretation when their	when their meaning is still	MODEL-FEATURE
+system ( rareas ) which	directly from formatted weather data such synthesis	USAGE
+in certain natural sublanguages with stereotyped	sublanguages with stereotyped text structure rareas draws	MODEL-FEATURE
+text structure rareas draws on	kinds of linguistic and non-linguistic knowledge and mirrors	USAGE
+method for error correction of ill-formed	correction of ill-formed input is described	USAGE
+expected. a dialogue acquisition and tracking algorithm is presented	in a voice interactive system a error	PART_WHOLE
+purpose and processing in discourse	processing in discourse in discourse	RESULT
+sequence of utterances (called the	(called the linguistic structure ), a	MODEL-FEATURE
+structure of purposes (called the	(called the intentional structure ), and	MODEL-FEATURE
+state of focus of attention (called the	(called the attentional state ). the	MODEL-FEATURE
+of the discourse into which	which the utterances naturally aggregate.	PART_WHOLE
+aggregate. the intentional structure captures the	captures the discourse-relevant purposes expressed linguistic	MODEL-FEATURE
+them. the attentional state is an	of the focus of attention of the	MODEL-FEATURE
+interruptions the theory of attention, intention, and aggregation of utterances is illustrated	of example discourses various discourse	MODEL-FEATURE
+processing of utterances in a	in a discourse discourse processing	PART_WHOLE
+how the utterances of the	of the discourse aggregate into	PART_WHOLE
+recognizing the intentions expressed in	in the discourse and the	PART_WHOLE
+enrichment of human-machine interactions in a	in a natural language environment because speaker	MODEL-FEATURE
+because a speaker and listener	speaker and listener cannot be	COMPARE
+formalisms : tree adjoining grammars and head	grammars and head grammars we equivalence	COMPARE
+the weak equivalence of the	the two formalisms we linguistic	MODEL-FEATURE
+comparing the linguistic expressiveness of the	the two formalisms	MODEL-FEATURE
+sets of features to describe	to describe linguistic objects although computational	MODEL-FEATURE
+descriptions of feature structures can be	regarded as logical formulas and directed	MODEL-FEATURE
+in fact, transition graphs for a	type of deterministic finite automaton this semantics	PART_WHOLE
+automaton this semantics for feature	semantics for feature structures extends the	MODEL-FEATURE
+disjunctions and path values embedded within	embedded within disjunctions our logical	PART_WHOLE
+using a logical model in place	of a denotational semantics this logical	COMPARE
+semantics this logical model yields a	to simplify formulas unification is	USAGE
+of the computational complexity of unification	complexity of unification we consistency	MODEL-FEATURE
+that the consistency problem for formulas	problem for formulas with disjunctive	MODEL-FEATURE
+sentences in text or text-to-speech	text or text-to-speech form deictic reference	COMPARE
+reference and feedback about the	about the discourse are enabled.	MODEL-FEATURE
+describe the pronominal anaphora resolution module of lucy	module of lucy a english	PART_WHOLE
+implemented a blackboard-like architecture in which	which individual partial theories can be	PART_WHOLE
+application of unification categorial grammar (ucg) to the	grammars for machine translation pioneered by	USAGE
+developing the grammars of the	of the source and target languages in parallel,	MODEL-FEATURE
+ensure that sl and tl	sl and tl expressions which	COMPARE
+on the translation relation not textual	levels of textual representation after mt	COMPARE
+use of demonstrative expressions in english	expressions in english and discusses	PART_WHOLE
+range of texts to show	distribution of demonstrative forms and functions is genre	PART_WHOLE
+ccrs are boolean conditions on the	cooccurrence of categories in local	MODEL-FEATURE
+leads to syntactic descriptions formulated entirely	entirely with restrictive statements the context	MODEL-FEATURE
+analysis of context free languages can be	to the ccr formalism special parser	COMPARE
+fulfillment of logical well-formedness conditions on trees	conditions on trees	MODEL-FEATURE
+for the presuppositional nature of these	of these sentences	MODEL-FEATURE
+developed a computational model of the	a much-studied discourse task first characterized	USAGE
+(1974). the model is embodied	a program, apt that organizational	PART_WHOLE
+easily identifiable fragments occur in	in the sentence the islands	PART_WHOLE
+on the paraphrasing of a	of a parser 's multiple	RESULT
+examples of paraphrasing ambiguous sentences	paraphrasing ambiguous sentences are presented.	MODEL-FEATURE
+applicable in general domains does not	in the linguistic domain for linguistic	COMPARE
+for another, linguistic representation used by	used by language processing systems is not	USAGE
+representation the dynamic hierarchical phrasal lexicon (dhpl) [zernik88], to	to facilitate language acquisition from language	USAGE
+this, a language learning model was implemented	its own lexical hierarchy by processing	PART_WHOLE
+first, how linguistic concepts are acquired	acquired from training examples and organized	MODEL-FEATURE
+how a lexical hierarchy is used	predicting new linguistic concepts thus, program	USAGE
+of a lexical unknown and hypothesis	and a hypothesis can be	MODEL-FEATURE
+although every natural language system needs a	needs a computational lexicon each lexicon	USAGE
+complex a computational lexicon designed to	repository of shared lexical information for use	PART_WHOLE
+information from machine-readable dictionaries (mrd's) to create	create a broad coverage lexicon	USAGE
+role of user modeling in such	in such systems it user	RESULT
+that a user model may be	about a user are then	MODEL-FEATURE
+for a user model is a	problem in user modeling a user	PART_WHOLE
+system called feature structure-directed generation developed dialogue	for a dialogue translation system the typed	USAGE
+system utilizes typed feature structures to control	control the top-down derivation in a	USAGE
+way. this generation system also uses	also uses disjunctive feature structures to reduce	USAGE
+tree the grammar for this	for this generator is designed	USAGE
+of the dependency structure of sentences	structure of sentences the dops	MODEL-FEATURE
+sentences the dops system extracts preference	from a target document or other	USAGE
+analysis of dependency structures of japanese	structures of japanese patent claim sentences	MODEL-FEATURE
+of a korean phonological knowledge base system using the	using the unification-based grammar formalism : korean	USAGE
+approach of kpsg provides an	a computational phonological system : speech	USAGE
+confines of syntax for semantic	task of semantic interpretation or automatic	COMPARE
+their associated semantics represented in	in a logical form language or translates	MODEL-FEATURE
+to their translates in another	in another natural language ; in	MODEL-FEATURE
+to allow tags to be	role in syntax proper we synchronous	USAGE
+proposes that sentence analysis should be	treated as defeasible reasoning and japanese	MODEL-FEATURE
+treatment for japanese sentence analyses using an	using an argumentation system by konolige,	USAGE
+is a formalization of defeasible	formalization of defeasible reasoning that arguments	MODEL-FEATURE
+arguments and defeat rules that capture	that capture defeasibility	MODEL-FEATURE
+spelling-checkers have become	of most text processing software from dictionaries	PART_WHOLE
+based on dictionaries of word forms instead of	instead of words this inflection	COMPARE
+with little inflection such as	such as english but highly	MODEL-FEATURE
+fails for highly inflective languages such as	such as czech russian slovak	MODEL-FEATURE
+of existing spelling-checkers for english	spelling-checkers for english and the	USAGE
+of recognized word forms exceeds 6	million (for czech ). further,	PART_WHOLE
+to avoid grammar coverage problems we use	use a fully-connected first-order statistical class grammar the speech-search	USAGE
+on a board with a	a single intel i860 chip which sun	MODEL-FEATURE
+into the vme bus of the	of the sun4 which natural	PART_WHOLE
+paradigm for speaker-independent (si) training of hidden	amount of speech from a	USAGE
+averaging the statistics of independently	all the speech data from many	COMPARE
+only 12 training speakers for si	a 7.5% word error rate on a	RESULT
+grammar and test set from the	from the darpa resource management corpus this performance	PART_WHOLE
+improvement for speaker adaptation (sa) using the	the new si corpus and a	USAGE
+speaker a probabilistic spectral mapping is estimated	for each training (reference) speaker and the	MODEL-FEATURE
+speaker each reference model is transformed	combined by averaging using utterances	USAGE
+only 40 utterances from the	speaker for adaptation the error	USAGE
+a specialized editor for a	highly structured dictionary the editor	USAGE
+building that editor was to	to help lexicologists produce a	USAGE
+and coherent dictionary on the	of a linguistic theory if lexicons	USAGE
+lexicons and grammars to achieve	achieve complex natural language processing we linguistic	USAGE
+known as free indexation plays an	of the referential properties of noun phrases in the	RESULT
+for making syntactic analysis more robust---an	more robust---an agenda-based scheduling parser a recovery	USAGE
+parsing for pragmatics processing we abductive	method of abductive inference is inherently	USAGE
+algorithm for chart-based phrase structure parsing of natural	parsing of natural language that is	USAGE
+information from unrestricted texts where many	of the words are unknown	PART_WHOLE
+of the edges adjacent to	all such edges as in	COMPARE
+use of phrase boundary heuristics based on	placement of function words and heuristic	USAGE
+kinds of phrases to be	presence of unknown words a reduction	PART_WHOLE
+by using semantic rather than	rather than syntactic categories on the	COMPARE
+amount of ambiguity and thus	number of edges since edges	RESULT
+since only edges with a	a valid semantic interpretation are	MODEL-FEATURE
+method for discourse segmentation primarily based	based on abduction of temporal	USAGE
+abduction of temporal relations between segments	relations between segments is proposed.	MODEL-FEATURE
+robustness oriented adaptive learning procedure is proposed	task of syntactic ambiguity resolution owing insufficient	USAGE
+data and approximation error introduced by	by the language model traditional statistical	RESULT
+model traditional statistical approaches which ambiguities	implicitly using maximum likelihood method fail performance	USAGE
+test. the accuracy rate of syntactic	rate of syntactic disambiguation is raised	RESULT
+graph unification remains the	part of unification-based grammar parsing we unification	PART_WHOLE
+which avoids log(d) overheads often associated	associated with structure-sharing of graphs without any	MODEL-FEATURE
+the transfer phase in machine	complicated than analysis and generation	COMPARE
+to use case-based reasoning in machine	reasoning in machine translation that translation	USAGE
+called a similarity-driven transfer system (simtran) for case-based	in such case-based mt (cbmt)	USAGE
+detected, the parser skips that	a fake non-terminal symbol the portion	USAGE
+using the parse record of the	the first utterance the user	MODEL-FEATURE
+systems. detected unknown words can be	into the dictionary after the	PART_WHOLE
+concept of sublanguage is unknown	for identifying unknown words especially personal	USAGE
+words especially personal names in chinese	names in chinese newspapers the title-driven	PART_WHOLE
+of the spatial descriptions in japanese	descriptions in japanese in world	PART_WHOLE
+produces a model of the	the described world to model	MODEL-FEATURE
+extract the qualitative spatial constraints from the	from the text and numerical	PART_WHOLE
+on the spatial attributes of the	of the entities this spatial	MODEL-FEATURE
+reflects the temporary belief about the	about the world	MODEL-FEATURE
+recently collected spoken language corpus for the	for the atis (air travel information system) domain this madcow	MODEL-FEATURE
+of 12,000 utterances of spontaneous	utterances of spontaneous speech from five	MODEL-FEATURE
+field of speech processing but human-machine	areas of human-machine communication including natural	COMPARE
+three relatively domain-independent capabilities recently added	to the paramax spoken language understanding system : non-monotonic	MODEL-FEATURE
+extending the n-best speech/language integration architecture to improving	improving ocr accuracy	RESULT
+of detailed linguistic information to resolve	to resolve ambiguity hbg incorporates	USAGE
+resolve ambiguity hbg incorporates lexical,	hbg incorporates lexical, syntactic, semantic, and structural information from the	USAGE
+the correct parse of a	of a sentence this grammar	MODEL-FEATURE
+of further grammar tailoring via	the usual linguistic introspection in the	USAGE
+p-cfg the hbg model significantly outperforms	significantly outperforms p-cfg increasing parsing	COMPARE
+expanded and reestimation formulas are given	given for hmm with gaussian mixture observation densities because bayesian	USAGE
+adaptive nature, bayesian learning serves as	following four speech recognition applications, namely	USAGE
+words like sentence whose meaning	sentence whose meaning or sense	MODEL-FEATURE
+two new word-sense disambiguation systems one bilingual	trained on bilingual material (the canadian	USAGE
+such as sentence appears two	in a well-written discourse it sense	PART_WHOLE
+to share sense in the	the same discourse is extremely	PART_WHOLE
+source of constraint for improving	of the word-sense disambiguation algorithm in disambiguation	USAGE
+help evaluate disambiguation algorithms that did	of the discourse constraint	USAGE
+correlation of dependency relation paths to rank	answers in answer extraction using correlation	USAGE
+we compare dependency relations of a	and mapped question phrases in sentence	MODEL-FEATURE
+incorporate the mapping score into the	into the correlation measure the maximum	PART_WHOLE
+statistics on cooccurrence patterns in a	a large corpus to semantic	PART_WHOLE
+statistics reflect semantic constraints and thus	to disambiguate anaphora references and syntactic	USAGE
+to resolve references of the	"of the pronoun ""it"" in sentences"	MODEL-FEATURE
+"""it"" in sentences that were"	from the corpus the cooccurrence	PART_WHOLE
+cases the cooccurrence statistics indeed reflect	a useful disambiguation tool	USAGE
+between a probabilistic context-free grammar and a	and a probabilistic finite automaton we closed-form	COMPARE
+of the kullback-leibler distance viz. cross-entropy	viz. the cross-entropy we distributional	PART_WHOLE
+problem of distributional approximation of probabilistic	means of probabilistic finite automata	USAGE
+developed for spelling correction for languages	correction for languages like english	USAGE
+approach to spelling correction in agglutinative	correction in agglutinative languages that is	USAGE
+experiments with spelling correction in turkish	correction in turkish	USAGE
+high performance continuous speech recognition (csr) techniques focussed on	application in spoken language systems (sls) which will	USAGE
+transition of spoken language technology into military	technology into military and civilian systems with csr	USAGE
+of robust csr to mobile	csr to mobile military command and control the acoustic	USAGE
+for robust large-vocabulary csr and arpa	the new arpa large-vocabulary csr corpora and to	USAGE
+presentation generators presentor offers intuitive	and powerful declarative languages specifying the	PART_WHOLE
+in the darpa spoken language systems (sls) program to agree	evaluation of sls systems and sls	TOPIC
+the only nl evaluations other than	series of message understanding conferences (sundheim, 1989;	TOPIC
+"a practical ""black-box"" methodology for automatic"	evaluation of question-answering nl systems while speech	USAGE
+the psycholinguistic literature provides evidence	evidence for syntactic priming i.e., priming	TOPIC
+for incorporating priming into an	into an incremental probabilistic parser three priming	USAGE
+advantage for parallel structures found in	found in human data and parsing	PART_WHOLE
+of a word drawn from	have different sense priors (the proportions	MODEL-FEATURE
+the different senses of a	of a word ). this	MODEL-FEATURE
+accuracy of word sense disambiguation (wsd) systems trained and	on different domains this sense	USAGE
+estimate the sense priors of words	priors of words drawn from	MODEL-FEATURE
+of using well calibrated probabilities when performing	performing these estimations by well	USAGE
+by using well calibrated probabilities we sense	estimate the sense priors effectively to	USAGE
+to obtain hierarchical relations (e.g. superordinate	problems for thesaurus construction a relations	PART_WHOLE
+extracting these relations automatically from	an ordinary japanese language dictionary (shinmeikai kokugojiten,	PART_WHOLE
+of the definition sentences in the	in the dictionary the hierarchical	PART_WHOLE
+interested in natural language understanding who take	who take machine translation to be	USAGE
+only the ambiguity but also	which every natural language inevitably has	MODEL-FEATURE
+adopts the transfer approach as the	framework of mt this transfer	USAGE
+of the transfer phase of our	in the interlingual approach the transfer	COMPARE
+boosting and svms are applied	applied to language processing tasks it error	USAGE
+performance, various error correction mechanisms have been	performance on unseen data ; indeed,	USAGE
+acquisition of entailment relations between verbs	relations between verbs while paraphrases	MODEL-FEATURE
+to discover semantic equivalence between verbs	equivalence between verbs the entailment	MODEL-FEATURE
+challenge of entailment acquisition is to	to capture asymmetric, or directional, relations motivated local	TOPIC
+underlies the local structure of coherent	structure of coherent text we verb	MODEL-FEATURE
+evidence about discourse relations between clauses	relations between clauses available in	MODEL-FEATURE
+mapping between verbs with highly	highly varied argument structures	MODEL-FEATURE
+which alternative phrases are represented	sets of trees or forests	MODEL-FEATURE
+an efficient ranking algorithm is described,	or a lattice-based approach	COMPARE
+to extract sentences for summary	sentences for summary generation under two	USAGE
+summac-1 for categorization task positive feature	categorization task positive feature vectors and negative	USAGE
+task, a text model based on	generate the user-directed summaries the normf	USAGE
+and the similarity between the	between the vectors is then	MODEL-FEATURE
+an efficient threading algorithm that runs	runs in 0(n) time (where n	MODEL-FEATURE
+represent the topics of the	of the threads and words	MODEL-FEATURE
+threads and words that represent	represent new information in each	MODEL-FEATURE
+where each sstc describes a	describes a sentence a representation	MODEL-FEATURE
+correspondence between substrings in the	in the sentence and subtrees	PART_WHOLE
+sentence and subtrees in the	in the representation tree in parsing	PART_WHOLE
+to build subtrees for phrases	subtrees for phrases in the	MODEL-FEATURE
+and an hmm-based chunk tagger from named	which a named entity (ne) recognition (ner) system is built	USAGE
+of the words such capitalization	such as capitalization and digitalization	MODEL-FEATURE
+of our system on muc-6	tasks achieves f-measures of 96.6%	RESULT
+porting a natural language processing (nlp) system to a	to a new domain remains one	USAGE
+attune the existing grammar to the	of the new sublanguage this lexicalized	USAGE
+fitting a lexicalized grammar to a	to a domain can be	USAGE
+that combines traditional knowledge-based techniques with a	with a corpus-based approach	COMPARE
+caused by transliteration in a	a large corpus the similarities	PART_WHOLE
+one is string similarity based on	based on edit distance the contextual	USAGE
+other is contextual similarity by a	by a vector space model experimental f-measure	USAGE
+and understanding temporal expressions in newswire	expressions in newswire texts in temporal	PART_WHOLE
+on anchoring temporal expressions in a	a novel genre emails. expressions	MODEL-FEATURE
+evaluated a temporal expression anchoror (tea) and baseline	than the baseline and	COMPARE
+usefulness of voice input for interactive	input for interactive problem solving the continuous	USAGE
+recognition and natural language processing to achieve	to achieve speech understanding the application	USAGE
+using a segment-based approach to phonetic	approach to phonetic recognition the recognition	USAGE
+integrated with natural language processing to achieve	to achieve spoken language understanding	USAGE
+it. the knowledge to be	expressed in text is first	PART_WHOLE
+and the computational methods of kds	methods of kds are described.	USAGE
+a deterministic parser is under	departure from traditional deterministic parsers in that	COMPARE
+from the rules of a	of a deterministic grammar the hybrid	PART_WHOLE
+to a parser which is	to any known deterministic parser experiments training	COMPARE
+and powerful training techniques are demonstrated	that permit decision-making by the	USAGE
+by the connectionist component in the	in the parsing process this rules	PART_WHOLE
+to the rules of other	of other deterministic parsers including rule	PART_WHOLE
+how a connectionist (neural) network trained with	parse both expected (grammatical) sentences as well	USAGE
+integration of supervised learning with unsupervised	biases in summarization in probabilistic	USAGE
+summaries the corpus of human	from a newspaper corpus and used	PART_WHOLE
+procedure for statistical machine translation (mt) based on	based on dynamic programming (dp) starting word	USAGE
+on the verbmobil task (german-english, 8000-word	is a limited-domain spoken-language task	MODEL-FEATURE
+issue of word-sense ambiguity in extraction	extraction from machine-readable resources for the	PART_WHOLE
+i.e., that verb semantics and syntactic	semantics and syntactic behavior are predictably	COMPARE
+in deriving semantic information from syntactic	information from syntactic cues if we	USAGE
+divide the syntactic cues into distinct	with different word senses finally, word	COMPARE
+for building natural language processing (nlp) systems for text	systems for text understanding systems paktus	USAGE
+news wire. paktus supports the	of domains: jintaccs messages rainform messages	USAGE
+fragment of linear logic has found	applications in computational linguistics : in	USAGE
+"in the ""glue language"" approach to"	approach to lfg semantics and parsing	USAGE
+for an embodied conversational agent in a	in a dialogue system a corpus	PART_WHOLE
+model and parser for large-vocabulary	parser for large-vocabulary speech recognition the online	USAGE
+probabilities. the parser uses structural	parser uses structural and lexical dependencies not considered	USAGE
+extracting additional structural information useful for	useful for speech understanding	USAGE
+are probability, rank and entropy	rank and entropy we pruning	COMPARE
+the three pruning criteria in a	application of chinese text input in terms	USAGE
+using a unification-based grammar that is	by a multidimensional chart parser to compose	USAGE
+in which multimodal parsing and understanding are achieved	using a weighted finite-state device which takes	USAGE
+use a convolution kernel over parse	to model syntactic structure information for relation	MODEL-FEATURE
+that the syntactic structure features embedded in	in a parse tree are very	PART_WHOLE
+approach to parsing that utilizes	advances in unification-based parsing and in	USAGE
+representation as unification-based grammatical frameworks are extended	developed in kl-one-like knowledge representation systems this classification-based	COMPARE
+of the classification-based representation techniques can be	applied to unification-based linguistic descriptions this semantic	USAGE
+of a kl-one style representation for parsing	representation for parsing and semantic	USAGE
+in which parsing is characterized	process called incremental description refinement	USAGE
+phenomena, an explanation system must be	representation of domain knowledge organize multisentential	USAGE
+empirically study explanation generation from semantically	generation from semantically rich, large-scale knowledge bases in robust	USAGE
+describes a robust explanation system that constructs	the a large-scale knowledge base in the	USAGE
+sense a topic signature is a	set of words that tend	PART_WHOLE
+with it. topic signatures can be	number of natural language processing (nlp) applications such word	USAGE
+in which word senses are lexicalised	lexicalised in english and chinese	PART_WHOLE
+amount of chinese text available in	available in corpora and on	PART_WHOLE
+evaluated the topic signatures on a	on a wsd task where second-order	USAGE
+a novel ensemble learning approach to resolving	to resolving german pronouns boosting hypotheses	USAGE
+present a standalone system that resolves	pronouns in unannotated text by using	USAGE
+a limited textual domain further open-domain	effective for open-domain question answering and text	COMPARE
+presents a machine learning approach to bare	approach to bare slice disambiguation in dialogue	USAGE
+set of heuristic principles from a	them as probabilistic horn clauses we clauses	MODEL-FEATURE
+set of domain independent features to annotate	annotate an input dataset and machine	MODEL-FEATURE
+slipper, a rule-based learning algorithm and memory-based	timbl, a memory-based system both success	COMPARE
+that the features in terms	formulate our heuristic principles have significant	MODEL-FEATURE
+and that rules that closely	resemble our horn clauses can be	COMPARE
+criterion – meaning-entailing substitutability – fits	needs of semantic-oriented nlp applications and can	USAGE
+by this semantic criterion we analyze	quality of distributional word feature vectors and its	MODEL-FEATURE
+a novel feature weighting and selection function is presented,	yields superior feature vectors and better	RESULT
+we identify features of electronic	features of electronic discussions that influence	MODEL-FEATURE
+tested the clustering and filtering processes on electronic	processes on electronic newsgroup discussions and performance	USAGE
+evaluated their performance by means	experiments : coarse-level clustering simple information	RESULT
+that exploits context on both	of a word to be	MODEL-FEATURE
+that the quality of the	impacts the accuracy that can	RESULT
+method of hmm training that improves	that improves accuracy when training	RESULT
+of generating referring expressions mainly utilized	attributes of objects and binary	USAGE
+objects and binary relations between objects	relations between objects however, objects	MODEL-FEATURE
+groups of objects and n-ary	objects and n-ary relations among them.	MODEL-FEATURE
+machine transliteration/back-transliteration plays an	in many multilingual speech and language applications in machine	PART_WHOLE
+framework for machine transliteration/backtransliteration that allows	carry out direct orthographical mapping (dom) between two	USAGE
+also called n-gram transliteration model (n-gram tm) is transliteration	model the transliteration process we transliteration/backtransliteration	MODEL-FEATURE
+through several transliteration/backtransliteration experiments for english/chinese	experiments for english/chinese and english/japanese language pairs our system	USAGE
+present a corpus-based supervised word sense disambiguation (wsd) system for dutch	system for dutch which combines	USAGE
+building individual classifiers per ambiguous	introduce a lemma-based approach the inflected	COMPARE
+clusters all inflected forms of an	of an ambiguous word in one	MODEL-FEATURE
+augmenting the training material available to	to the algorithm testing lemma-based	USAGE
+testing the lemma-based model on the	on the dutch senseval-2 test data we accuracy	USAGE
+present a text mining method for finding	on the distributional hypothesis in a	USAGE
+improve the accuracy of a	of a term aggregation system using each	RESULT
+each author's text as a	a coherent corpus our expression	USAGE
+use one expression for one	for one meaning according words	MODEL-FEATURE
+of the words with similar	words with similar context features in each	MODEL-FEATURE
+improves the accuracy of our	of our term aggregation system showing	RESULT
+while sentence extraction as an	approach to summarization has been	USAGE
+work in documents of certain	of certain genres because email	MODEL-FEATURE
+nature of email communication where utterances	communication where utterances are made	PART_WHOLE
+the necessary segments of dialogue	segments of dialogue that would	PART_WHOLE
+detection of question-answer pairs in an	in an email conversation for the	PART_WHOLE
+that various features based on	improve upon lexical similarity of discourse	USAGE
+compute the co-occurrence distribution between pairs	pairs of terms an independence	MODEL-FEATURE
+to compute similarity between words	similarity between words or use	MODEL-FEATURE
+or use lexical affinity to create	to create sequential models in models	USAGE
+capture the co-occurrence patterns of any	pair of words or phrases	MODEL-FEATURE
+method for word sense disambiguation based on	based on parallel corpora the word	USAGE
+alignment and word clustering based on	based on automatic extraction of translation	USAGE
+and spot alignment errors in multilingually	errors in multilingually aligned wordnets as balkanet	PART_WHOLE
+we present minimum bayes-risk (mbr) decoding for statistical	decoding for statistical machine translation this expected	USAGE
+errors under loss functions that measure	that measure translation performance we loss	MODEL-FEATURE
+hierarchy of loss functions that incorporate	levels of linguistic information from word	MODEL-FEATURE
+word strings word-to-word alignments from an	from an mt system and syntactic	PART_WHOLE
+structure from parse-trees of source	parse-trees of source and target language sentences we performance	MODEL-FEATURE
+report the performance of the	of the mbr decoders on a	RESULT
+show that mbr decoding can be	to tune statistical mt performance for specific	USAGE
+information extraction techniques automatically create	automatically create structured databases from unstructured	RESULT
+estimate the confidence the system	of each extracted field the information	MODEL-FEATURE
+field the information extraction system we evaluate	on a linear-chain conditional random field (crf) a probabilistic	USAGE
+(crf) a probabilistic model which has	well on information extraction tasks because of	USAGE
+arbitrary, overlapping features of the	in a markov model we confidence	MODEL-FEATURE
+estimate the confidence of both	of both extracted fields and entire	MODEL-FEATURE
+an implemented graphic interpretation system that takes	variety of communicative signals and shallow	USAGE
+framework for word alignment based on	based on log-linear models all knowledge	USAGE
+models all knowledge sources are treated	treated as feature functions which source	USAGE
+additional variables. log-linear models allow statistical	models allow statistical alignment models to be	USAGE
+correspondence and bilingual dictionary coverage as features	coverage as features our log-linear	USAGE
+show that log-linear models significantly outperform	significantly outperform ibm translation models	COMPARE
+inducing a combinatory categorial grammar (ccg) lexicon from a	from a turkish dependency treebank the turkish	USAGE
+fact that turkish is an	is an agglutinating free word order language presents a	MODEL-FEATURE
+from a treebank which is	smaller than penn wsj	COMPARE
+in the chinese language a verb	language a verb may have	PART_WHOLE
+sides. the ambiguity resolution of right-side	essential for dependency parsing of sentences	PART_WHOLE
+parsing of sentences with two	or more verbs previous shift-reduce	PART_WHOLE
+guarantee the connectivity of a	of a dependency tree due to	MODEL-FEATURE
+proposes a two-phase shift-reduce dependency parser based on	based on svm learning the left-side	USAGE
+outperforms previous shift-reduce dependency parsers for the	for the chine language showing dependency	USAGE
+definition of focus which is	determined in discourse in a	PART_WHOLE
+integration of focus via fda	construct into speech synthesis systems in concept-to-speech	USAGE
+currently several grammatical formalisms converge towards	towards utilizing context-free phrase-structure grammar as a	USAGE
+of fundamental rule-invocation strategies within context-free	strategies within context-free chart parsing	PART_WHOLE
+for a model of grammatical processing that is	based on uniform processing and knowledge	USAGE
+to view parsing and generation	parsing and generation as two	COMPARE
+when decomposing words into their	into their constituent parts is ambiguity	PART_WHOLE
+of multiple analyses for one	for one input word many ambiguity	MODEL-FEATURE
+ambiguity the morphological parser morpa is provided	"with a probabilistic context-free grammar (pcfg) i.e. ""conventional"""	PART_WHOLE
+"combines a ""conventional"" context-free morphological grammar to filter"	with a probability-based scoring function which determines	USAGE
+fully implemented parser developed for	in a text-to-speech conversion system	USAGE
+identification the output can be	meet different segmentation standards through the	MODEL-FEATURE
+transformation. the system participated in	achieved the state-of-the-art performance in msr-open	RESULT
+paper a morphological component with a	(and generate) derived words is presented.	USAGE
+with a feature-based word grammar building on	on a hierarchical lexicon polymorphemic stems	USAGE
+hierarchical lexicon polymorphemic stems not explicitly	given a compositional interpretation that lexicon	MODEL-FEATURE
+approach to full parsing suitable for	suitable for information extraction from texts	USAGE
+analyze the text building unambiguous	text building unambiguous structures initially chunks	MODEL-FEATURE
+in the ie module of facile,	module of facile, a eu project for multilingual text classification and ie	PART_WHOLE
+simple improved duration model has reduced	reduced the error rate by about	RESULT
+finally, the recognizer has been	to use bigram back-off language models the rm	USAGE
+are four language pairs currently supported	supported by glosser : english-bulgarian	MODEL-FEATURE
+for an aligned bilingual corpus of word	corpus of word examples	PART_WHOLE
+identifying likely topics of texts	topics of texts by their	MODEL-FEATURE
+based on genre-specific regularities of discourse	regularities of discourse structure this information	MODEL-FEATURE
+of a conditional log-linear model with hidden	model with hidden variables representing the	MODEL-FEATURE
+assignment of lexical items to word	items to word clusters or word	MODEL-FEATURE
+make these assignments based on	on a discriminative training criterion training and	USAGE
+training and decoding with the	exactly using dynamic programming as parse	USAGE
+beyond the base parser and collins	improvement beyond collins (2000) reranker although parsing	COMPARE
+taiwan child language corpus contains scripts	corpus contains scripts transcribed from	PART_WHOLE
+hours of recordings of fourteen	children from southern min chinese speaking families	MODEL-FEATURE
+of the corpus adopts the	adopts the child language data exchange system (childes) the corpus	MODEL-FEATURE
+of the corpus is about	1.6 million words in data	PART_WHOLE
+segmentation and part-of-speech annotation of this	of this corpus applications corpus	USAGE
+robust natural language interpretation requires strong	requires strong semantic domain models fail-soft recovery	USAGE
+structures although single-strategy parsers have met	success, a multi-strategy approach is shown	COMPARE
+to bring task-specific domain knowledge (in addition	addition to general linguistic knowledge ) to	COMPARE
+input a parsing algorithm is presented	several different parsing strategies with case-frame	USAGE
+of these parsing strategies exploits different	exploits different types of knowledge ; and	USAGE
+input and ungrammatical structures as grammatically	less exotic, grammatically correct input several specific	COMPARE
+input several specific heuristics for handling	within this multi-strategy framework	PART_WHOLE
+describe the discontinuous constituents of non-configurational	constituents of non-configurational languages these discontinuous	PART_WHOLE
+languages these discontinuous constituents can be	variant of definite clause grammars and grammars	MODEL-FEATURE
+and these grammars can be	create a parser for non-configurational languages	USAGE
+acquiring a context-sensitive, phrase structure grammar which is	by a best-path, bottom-up, deterministic parser the grammar	USAGE
+concludes that csg is a	construction of phrase structure grammar for news	USAGE
+selecting the semantically unmarked term out of	pair of antonymous adjectives solutions term	PART_WHOLE
+comparing the lexical coverage of mt	coverage of mt systems the words	MODEL-FEATURE
+lists of words from different	from different frequency classes it word	MODEL-FEATURE
+for interpreting abstract flat syntactic representations, lfg f-structures as underspecified	f-structures as underspecified semantic representations, here underspecified discourse representation structures (udrss) the one-to-one	MODEL-FEATURE
+provides a model theoretic interpretation and an	representations for f-structures through the	MODEL-FEATURE
+through the translation images of f-structures	images of f-structures as udrss	MODEL-FEATURE
+creating a dialog management system based on	on a construct algebra a collection	USAGE
+algebra a collection of relations and operations on a	on a task representation these relations	MODEL-FEATURE
+operations are analytical components for building	abstractions called dialog motivators the dialog	PART_WHOLE
+motivators the dialog manager consisting collection	of a collection of dialog motivators is construct	PART_WHOLE
+is a language-independent system for automatic	system for automatic discovery of text in parallel	USAGE
+the preliminary strand results by	by adding automatic language identification scaling automatically	PART_WHOLE
+is an automatically acquired parallel corpus comprising 2491	comprising 2491 english-french document pairs approximately words	PART_WHOLE
+project is computer-assisted acquisition and morpho-syntactic description of verb-noun collocations in polish	collocations in polish we dictionary-based	USAGE
+presented here corpus-based approach permitted us	size the verb-noun collocation dictionary for polish in syntlex	USAGE
+recently developed large czech mwe database containing at	160 000 mwes (treated as	PART_WHOLE
+dictionaries public databases of proper	databases of proper names and toponyms	PART_WHOLE
+and toponyms collocations obtained from	obtained from czech wordnet lists botanical	PART_WHOLE
+the built mwes database with the	with the corpus data from czech	COMPARE
+exploiting the word sketch engine which statistical	work with statistical parameters such as	MODEL-FEATURE
+with the salience for the	the whole mwes we database	MODEL-FEATURE
+of the database for working	more adequate tagging and lemmatization	USAGE
+to recognize mwes in corpus	mwes in corpus text and lemmatize	PART_WHOLE
+to explore statistical techniques for ranking	the best translations in a	USAGE
+in a graph of translation	graph of translation hypotheses in hypotheses	PART_WHOLE
+how the hypotheses graph is generated	generated through shallow mapping and permutation	USAGE
+of its nodes consisting of	consisting of vectors representing morpho-syntactic properties of words	PART_WHOLE
+and their log-linear combination is then	best m translation paths in the	USAGE
+toolkits the cmu and the	and the sri toolkit and arrive	COMPARE
+results: 1) word-lemma based feature function models produce better	results than token-based models 2) pos-tag	COMPARE
+adding a pos-tag feature function to the	to the word-lemma model improves the	PART_WHOLE
+and 3) weights for lexical	weights for lexical translations are suitable	MODEL-FEATURE
+if the training material is similar	to the texts to be	COMPARE
+looking for internal and contextual information associated with	associated with domain specific terms the features	MODEL-FEATURE
+that fewer features are not	to distinguish terms from non-terms	MODEL-FEATURE
+approach for term extraction based on	based on delimiters which are	USAGE
+capturing the discourse relations in czech	relations in czech we syntactically	PART_WHOLE
+of the syntactically motivated relations in discourse	relations in discourse basing prague	PART_WHOLE
+the present-day syntactico-semantic (tectogrammatical) annotation in the	in the prague dependency treebank extend sentence-boundary-crossing	PART_WHOLE
+a new, discourse level of annotation	level of annotation in praguian	MODEL-FEATURE
+possibilities the praguian dependency-based approach offers with	with the penn discourse annotation based primarily	COMPARE
+experiments of unsupervised automatic acquisition of italian	(scfs) from general and domain corpora the syntactically	USAGE
+any previous lexico-syntactic knowledge about scfs	knowledge about scfs although state-of-the-art	MODEL-FEATURE
+of whether verbs sharing similar	sharing similar scfs distributions happen to	MODEL-FEATURE
+by clustering verbs that share	that share frames with the	MODEL-FEATURE
+the translation of english	limits of traditional mt architectural designs a semantic	USAGE
+a new semantic representation is proposed	that uses virtual reality 3d scene modeling software to produce	USAGE
+as an interlingua within a	a new multi-pathway mt architecture design that also	PART_WHOLE
+design of cognitively well-motivated interfaces relying primarily	on the display of graphical information we graphical	USAGE
+integration of natural language generation to augment	augment the interaction	USAGE
+out with vocabularies containing up	to 20k words the continuous	PART_WHOLE
+use of continuous density hmm with gaussian	hmm with gaussian mixture for acoustic	MODEL-FEATURE
+modeling and n-gram statistics estimated on	texts for language modeling the time-synchronous	USAGE
+a second forward pass which word	of a word graph generated with	USAGE
+language model acoustic modeling uses cepstrum-based	modeling uses cepstrum-based features context-dependent phone	USAGE
+words the system is based	on a multi-component architecture where each	USAGE
+is the components that identify	that identify names and spelling	USAGE
+errors each component uses a	uses a decision tree architecture to combine	USAGE
+types of evidence about the	about the unknown word the system	MODEL-FEATURE
+data from live closed captions - a	variety of unknown words	PART_WHOLE
+recognition of proper nouns in japanese	nouns in japanese text has been	USAGE
+problem of morphological analysis in japanese	analysis in japanese text processing ([1] [2]).	PART_WHOLE
+as a morphological analysis problem in japanese	problem in japanese our morphological	USAGE
+japanese our morphological analyzer has done	for the recognition and classification of proper names, numerical and temporal expressions, i.e. named entity (ne) items in the	USAGE
+kinds of dictionaries to segment	and tag japanese character strings second, dictionary	USAGE
+set of rules is applied	to the segmented strings in order	USAGE
+present a practically unsupervised learning method to produce	to produce single-snippet answers to definition	USAGE
+method exploits on-line encyclopedias and dictionaries to generate	number of positive and negative definition examples which svm	USAGE
+context of terms extracted from	extracted from corpora : given	PART_WHOLE
+set of terms obtained corpus	from a corpus identifying hierarchical	PART_WHOLE
+corpus identifying hierarchical (or other types of) relations between these	between these terms the terminology	MODEL-FEATURE
+focusses on terminology structuring by lexical	structuring by lexical methods which terms	USAGE
+which match terms on the	on their content words taking morphological	PART_WHOLE
+list of terms obtained from	an originally hierarchically-structured terminology : the	PART_WHOLE
+compare the lexically-induced relations with the	the original mesh relations : after	COMPARE
+ofthe 'new' relations not present	in the mesh this lexical	PART_WHOLE
+choices and naming conventions made by	by the mesh designers, and	MODEL-FEATURE
+thus extracting translations from a	from a small, domain-specific corpus consisting of	PART_WHOLE
+analysing the frequency profiles of parallel	profiles of parallel concordances the conventional	MODEL-FEATURE
+limitations of conventional statistical methods which require	which require large corpora to be	USAGE
+effective, and lexical approaches which depend	on existing bilingual dictionaries pilot parallel	USAGE
+on a parallel corpus of about	about 113k chinese words and 120k	PART_WHOLE
+acquiring a translation lexicon for legal	lexicon for legal terminology by filtering	PART_WHOLE
+coedition of a	of a natural language text and its	USAGE
+with the text in their	in their language (l0) and graph	MODEL-FEATURE
+align the tree and the	as few crossing liaisons as possible.	MODEL-FEATURE
+using the expectation-maximization (em) algorithm proposed by	al. for text classification problems in order	USAGE
+stops the em algorithm at the	at the optimum iteration number to noun	MODEL-FEATURE
+solved 50 noun wsd problems in the	in the japanese dictionary task in senseval2 the verb	PART_WHOLE
+a proposed user knowledge modeling architecture for the	for the icicle system a language	PART_WHOLE
+system a language tutoring application for deaf	learners of written english the language	USAGE
+motivate our model design by citing	research on second language and cognitive skill acquisition and design	USAGE
+and practical japanese parsers that uses	that uses decision trees first, decision	USAGE
+a single decision tree to estimate	to estimate modification probabilities ; how	MODEL-FEATURE
+which several decision trees are constructed	combined for probability estimation the parsers	USAGE
+estimation of word significance oriented for	oriented for speech-based information retrieval (ir) is addressed.	USAGE
+since the significance of words	significance of words differs in	MODEL-FEATURE
+gives a weight on errors	instead of word error rate (wer) which words	COMPARE
+uniformly. a decoding strategy that minimizes	on a minimum bayes-risk framework has been	USAGE
+on both asr and ir	asr and ir has been	COMPARE
+propose an automatic estimation method for word	method for word significance (weights) based on	USAGE
+presents a method to automatically acquire paraphrases using bilingual	paraphrases using bilingual corpora which bilingual	USAGE
+utilizes the bilingual dependency relations obtained by	based on statistical alignment techniques since paraphrasing	USAGE
+disambiguating the sense of an	an original phrase using the	MODEL-FEATURE
+obtain interchangeable paraphrases under a	a given context also, generalized	MODEL-FEATURE
+to acquire generalized translation knowledge using the	the extracted paraphrases we generalized	USAGE
+acquire the generalized translation knowledge for korean-english	knowledge for korean-english translation through parallel	MODEL-FEATURE
+experiments with parallel corpora of a	of a korean and english language pairs we paraphrasing	PART_WHOLE
+that our paraphrasing method effectively extracts	with high precision 94.3% korean	RESULT
+and the translation knowledge extracted from	from the bilingual corpora could be	PART_WHOLE
+using the paraphrases with the	the 12.5% compression ratio	MODEL-FEATURE
+describes a computational model of word	model of word segmentation and presents	MODEL-FEATURE
+limitations of statistical learning mechanisms that have	prominence in cognitive psychology and linguistics	USAGE
+dictionary automatically. dictionary construction one machine	developing a machine translation system is dictionary	PART_WHOLE
+build a dictionary using existing	using existing linguistic resources our algorithm	USAGE
+resources our algorithm can be	to any language pairs but korean-to-japanese	USAGE
+building a korean-to-japanese dictionary using english	as a pivot we automatic	USAGE
+of the directionality of dictionaries	"directionality of dictionaries first, ""one-time"	MODEL-FEATURE
+"we introduce ""one-time look up"" method using a"	"using a korean-to-english and a japanese-to-english dictionary second, ""overlapping"	USAGE
+level of discourse structure that is	on identifying discourse connectives and their	USAGE
+to identify gene and protein interactions in biomedical	interactions in biomedical text our complex	PART_WHOLE
+first splitting complex sentences into simple	sentences into simple clausal structures made up	PART_WHOLE
+then, tagging biological entities with the	help of biomedical and linguistic ontologies finally, complete	MODEL-FEATURE
+combinations. our extraction system handles complex	system handles complex sentences and extracts	USAGE
+and extracts multiple and nested interactions specified in	in a sentence experimental extraction	PART_WHOLE
+that the intex system achieves better	achieves better performance without the	RESULT
+derive the distance between concepts	distance between concepts from distributional	MODEL-FEATURE
+use the categories in a	a published thesaurus as coarse-grained	PART_WHOLE
+thesaurus as coarse-grained concepts allowing distance	in a concept-concept matrix roughly.01% the	PART_WHOLE
+newly proposed concept-distance measures outperform traditional	measures outperform traditional distributional word-distance measures in the	COMPARE
+(1) ranking word pairs in order	order of semantic distance and real-word	MODEL-FEATURE
+all the wordnet-based measures only distributional	the best distributional concept-distance measures	COMPARE
+use of labeled directed graph to represent	types of linguistic structures and nlp	MODEL-FEATURE
+to view nlp tasks as graph	tasks as graph transformations we transformations	MODEL-FEATURE
+the method: identification of non-local depenencies (using penn	depenencies (using penn treebank data ) and	MODEL-FEATURE
+) and semantic role labeling (using proposition	labeling (using proposition bank data ).	MODEL-FEATURE
+of ranking blog posts with respect	to their relevance for a	MODEL-FEATURE
+to improve topical blog post retrieval we incorporate	we incorporate textual credibility indicators in the	USAGE
+estimate these indicators and how	into a retrieval approach based on	USAGE
+groups of credibility indicators significantly improve	significantly improve retrieval effectiveness ; the	RESULT
+1) many words within song	words within song lyrics actually contribute	PART_WHOLE
+problems, the sentiment vector space model (s-vsm) is proposed	to represent song lyric document the s-vsm	MODEL-FEATURE
+that the s-vsm model outperforms the	outperforms the vsm model in the	COMPARE
+identify the source language of medium-length	in the europarl corpus on the	MODEL-FEATURE
+basis of frequency counts of word	counts of word n-grams (87.2%-96.7% accuracy	MODEL-FEATURE
+n-grams (87.2%-96.7% accuracy depending on	depending on classification method ). the	RESULT
+words in chinese	words in chinese text are not	PART_WHOLE
+systems in mt the chinese	apply a chinese word segmenter trained from	USAGE
+propose a bayesian semi-supervised chinese word segmentation model which uses	uses both monolingual and bilingual information to derive	USAGE
+derive a segmentation suitable for	suitable for mt experiments state-of-the-art	USAGE
+translations indeed, automatic evaluations need high-quality	evaluations need high-quality data that allow	USAGE
+of using different-quality references on evaluation	references on evaluation surprisingly automatic	USAGE
+of the automatic metrics used within	used within mt are also	USAGE
+tool supports queries with an	number of wildcards it fillers	MODEL-FEATURE
+to the unsupervised learning of parts	uses both morphological and syntactic information while model	USAGE
+employed for unsupervised learning of pos	use only syntactic information the languages	USAGE
+variety of languages in the	we consider morphology as well.	PART_WHOLE
+many languages morphology provides better	category than word order we computational	COMPARE
+present the computational model for pos	model for pos learning and bulgarian	USAGE
+it to bulgarian a slavic	with relatively free word order and rich	MODEL-FEATURE
+of the conll 2008 shared task that uses	uses a generative history-based latent variable model to predict	USAGE
+most likely derivation of a	for both syntactic and semantic dependencies the model	MODEL-FEATURE
+the submitted model yields 79.1%	yields 79.1% macro-average f1 performance for syntactic	RESULT
+a larger model trained after	achieves 80.5% macro-average f1 87.6% syntactic	RESULT
+complex as architectural modules were added	to support language functionalities such as	USAGE
+these new modules in the	the overall architecture recent multi-paragraph	PART_WHOLE
+in a pipelined nlg architecture the revision	to a revision component finally, multi-page	PART_WHOLE
+above 97% accuracy for newspaper	newspaper text part of speech (pos) tagging might be	RESULT
+allowing the parser to resolve	to resolve pos tag ambiguity does not	USAGE
+however, for grammar formalisms which use	use more fine-grained grammatical categories for tag	USAGE
+describe a multi-tagging approach which maintains	and efficient ccg parsing we multi-tagging	USAGE
+maintaining some pos tag ambiguity in the	more accurate ccg supertagging	RESULT
+structure and punctuation have been	helpful in discourse processing based corpus	USAGE
+reports the discursive usage of 6	of 6 chinese punctuation marks in news	MODEL-FEATURE
+semicolon the rhetorical patterns of these	compared against patterns around cue	COMPARE
+that these chinese punctuation marks though cue	number than cue phrases are chinese	COMPARE
+to develop algorithms which can	of this intractability	USAGE
+an appropriate classifier word for a	for a noun in thai	MODEL-FEATURE
+choice of classifier for a	a given concrete noun both speech	MODEL-FEATURE
+a corresponding classifier of each	of each noun registration classifier	MODEL-FEATURE
+registration of classifier for each	for each noun is limited	MODEL-FEATURE
+propose a corpus-based method (biber,1993; nagao,1993;	problems in classifier assignment and semantic	USAGE
+describes an unsupervised learning method for associative	method for associative relationships between verb phrases which q&a	USAGE
+develop an unsupervised learning method that can	such an associative relationship which scenario	USAGE
+uses an expectation-maximization (em) based word-clustering algorithm and japanese	method using japanese verb phrases	USAGE
+problem. these models provide principled	than the preceding words such morphological	COMPARE
+presents an entirely data-driven model selection procedure based on	based on genetic search which knowledge-based	USAGE
+outperform both knowledge-based and random selection procedures on two	two different language modeling tasks ( arabic	USAGE
+advocacy of analytical inverses for compositional	inverses for compositional syntax rules encourages the	MODEL-FEATURE
+application of definite clause grammar techniques to the	of a parser returning montague	USAGE
+trees a parser mdcc is presented	implements an augmented friedman - warren algorithm permitting post	USAGE
+display the derivational history of corresponding	of corresponding reduced il formulae some montague's	MODEL-FEATURE
+area of machine translation usually involves	an appropriate formalism an compositionality	USAGE
+which the compositionality of translation	compositionality of translation is to	MODEL-FEATURE
+introduce the anaphoric component of the	of the mimo formalism it translation	PART_WHOLE
+compositionality in mimo the translation	mimo the translation of anaphoric	USAGE
+compositional. the anaphoric component is used	to define linguistic phenomena such as	USAGE
+a domain independent model is proposed	for the automated interpretation of nominal	USAGE
+interpretation of nominal compounds in english	compounds in english this model	PART_WHOLE
+from the morpho-syntactic and semantic characteristics of the	of the nominal constituents in predicative	MODEL-FEATURE
+concerning the predicative information associated with	associated with nominals we generalizable	MODEL-FEATURE
+line between generalizable semantic principles and domain-specific	principles and domain-specific semantic information we interpretation	COMPARE
+to the interpretation of compounds	interpretation of compounds in real	MODEL-FEATURE
+a novel entity-based representation of discourse	representation of discourse which is	MODEL-FEATURE
+we view coherence assessment as a	as a ranking learning problem and show	MODEL-FEATURE
+that the induced model achieves significantly	than a state-of-the-art coherence model	COMPARE
+sentence boundary detection in speech	for enriching speech recognition output, making	USAGE
+have developed hidden markov model (hmm) and maximum entropy (maxent) classifiers that integrate	and prosodic knowledge sources for detecting	USAGE
+on both human transcriptions and speech	transcriptions and speech recognition output. in	COMPARE
+general, our crf model yields	than the hmm and max-ent models on the	COMPARE
+between the training and test data with respect	respect to topic this training	MODEL-FEATURE
+experiments with training data labeled with	labeled with emoticons which domain	MODEL-FEATURE
+using natural language processing we japanese	survey on japanese natural language processing studies that have	USAGE
+using different co-occurrence similarities between terms	similarities between terms for separating	MODEL-FEATURE
+for separating query terms that are	useful for retrieval from those	USAGE
+is that useful terms tend to	to other query terms preliminary first-order	COMPARE
+the hypothesis. term similarities could then	determining which query terms are useful	MODEL-FEATURE
+tuning the weights of the	of the query terms	MODEL-FEATURE
+formalizing the structure of communicative context in dialogue	context in dialogue interaction the dialogue	MODEL-FEATURE
+previous invocations. memo-functions also facilitate	of the parse forest for lr(0)	USAGE
+grammars ( grammars with regular	grammars with regular expressions at the	PART_WHOLE
+of the lr-parser for normal	for normal cf grammars	USAGE
+defines a generative probabilistic model of parse	model of parse trees which pcfg-la	MODEL-FEATURE
+variables finegrained cfg rules are automatically	from a parsed corpus by training	USAGE
+corpus by training a pcfg-la	using an em-algorithm because parsing	USAGE
+because exact parsing with a	with a pcfg-la is np-hard	USAGE
+automatically trained model gave a	gave a performance of 86.6%	RESULT
+86.6% (f1, sentences < 40	< 40 words ), which	PART_WHOLE
+of an unlexicalized pcfg parser created using	using extensive manual feature selection	USAGE
+knowledge in feature-based relation extraction using svm	extraction using svm our phrase	USAGE
+the base phrase chunking information is	of the performance improvement from syntactic	RESULT
+demonstrate how semantic information such as	improve the performance evaluation on	RESULT
+enables our system outperform previously	previously best-reported systems on the	COMPARE
+a novel system for acquiring	system for acquiring adjectival subcategorization frames ( scfs	USAGE
+information from english corpus data	from english corpus data the system	MODEL-FEATURE
+data the system incorporates a	incorporates a decision-tree classifier for 30	PART_WHOLE
+presence of grammatical relations ( grs	in the output of a	PART_WHOLE
+to classify grs into frames	grs into frames hierarchically in	MODEL-FEATURE
+that the system is able	types with 70% precision and 66%	RESULT
+a new tool for linguistic	tool for linguistic annotation of scfs	USAGE
+annotation of scfs in corpus	scfs in corpus data is also	PART_WHOLE
+of obtaining training and test data for subcategorization	data for subcategorization acquisition	USAGE
+input a raw text in french	text in french and produces	MODEL-FEATURE
+of the pronoun il is tagged	with tag [ana] for anaphoric	MODEL-FEATURE
+and the expletive occurrences of this	of this pronoun for precision	MODEL-FEATURE
+antecedent. the precision rate for ilimp	rate for ilimp is 97,5%.	RESULT
+detail. other tasks using the	using the method developed for	USAGE
+use of ilimp in a	a modular syntactic analysis system	USAGE
+systemic grammar has been	used for ai text generation work in	USAGE
+generation where ai problem solving techniques are applied	an unadulterated systemic grammar this approach	USAGE
+simple, efficient text generation firmly based	in a linguistic theory	USAGE
+presents a critical discussion of the	in the evaluation of natural language systems we approaches	TOPIC
+solving a task requiring data	task requiring data retrieval this approaches	USAGE
+report a laboratory study using the	using the wizard of oz technique to identify	USAGE
+to the structure of the	of the information source we natural	MODEL-FEATURE
+semantic theories of natural	theories of natural language associate meanings	TOPIC
+language associate meanings with utterances	meanings with utterances by providing	MODEL-FEATURE
+by providing meanings for lexical	meanings for lexical items and rules	MODEL-FEATURE
+determining the meaning of larger	of larger units given the	MODEL-FEATURE
+well when constituent structure trees are used	to guide semantic composition more functional	USAGE
+recently, the functional structure of lfg	structure of lfg has been	PART_WHOLE
+provide the syntactic information necessary for	for constraining derivations of meaning	USAGE
+contrast to compositional approaches we deductive	present a deductive approach to assembling	COMPARE
+nature of information in the	in the functional structure our linear	PART_WHOLE
+of the lfg requirements of	requirements of completeness and coherence	MODEL-FEATURE
+anaphora in sentences which contain	which contain quantification over events within discourse	PART_WHOLE
+1984) of quantified sentences introduced temporal	by a temporal connective gives truth-conditions	PART_WHOLE
+when the temporal connective in the	in the subordinate clause is before	PART_WHOLE
+of the proportion problem and given	from a generalized quantifier approach by reference	TOPIC
+to this problem within drt	framework of drt we solution	USAGE
+of this solution to additional	to additional temporal anaphora phenomena in quantified	USAGE
+automatic, essentially domain-independent means of evaluating spoken language systems (sls) which combines	which combines software we have	USAGE
+set of specifications for answer	"specifications for answer expressions (the """	MODEL-FEATURE
+determines the syntax of answer	syntax of answer expressions the content	MODEL-FEATURE
+them, the data to be	excluded from test corpora and procedures	PART_WHOLE
+and the procedures used by	by the comparator though cas	USAGE
+of the cas are particular	to individual domains the comparator	MODEL-FEATURE
+domains the comparator software is domain-independent	software is domain-independent as cas	MODEL-FEATURE
+evolved in speech and text image processing work at	work at xerox parc that expand	TOPIC
+role of recognition technology in document-oriented	technology in document-oriented applications one text	PART_WHOLE
+that of text processors but operate	directly on audio and scanned image data a speech	COMPARE
+use of speech and text-image recognition to retrieve	information from documents with signal content this parc	USAGE
+present a statistical profile of the	of the named entity task a information	MODEL-FEATURE
+for which corpora in several	in several languages are available.	MODEL-FEATURE
+using the results of the	of the statistical analysis we algorithm	RESULT
+propose an algorithm for lower	algorithm for lower bound estimation for named	USAGE
+of the cross-lingual comparisons provided by	by the analysis	TOPIC
+problem of question-focused sentence retrieval from complex	from complex news articles describing multi-event	USAGE
+understanding each story in our	in our corpus because stories	PART_WHOLE
+judges found sentences providing an	providing an answer to each	PART_WHOLE
+address the sentence retrieval problem we stochastic,	apply a stochastic, graph-based method for comparing	USAGE
+of our method and hypothesize	a competitive baseline which similarity	COMPARE
+compares the similarity of each	of each sentence to the	MODEL-FEATURE
+experiments, the method achieves a	achieves a trdr score that is	RESULT
+a model is presented	characterize the class of languages obtained by	MODEL-FEATURE
+by adding reduplication to context-free	reduplication to context-free languages the model	PART_WHOLE
+is a pushdown automaton augmented with	using the stack in a	USAGE
+sort of reduplications that have	occur in natural languages but constructions	PART_WHOLE
+problem of quantifying noun groups in german	groups in german after corpus-based	PART_WHOLE
+other than grammar sensu stricto into the	into the treebank we annotation	MODEL-FEATURE
+and fine-grained annotation in the	in the tree-bank would have	PART_WHOLE
+make the treebank more valuable	data for theoretical linguistic investigations the corpus	USAGE
+parsing and extraction tool for german	tool for german text corpora	USAGE
+metagrammatical formalisms that combine	that combine context-free phrase structure rules and metarules	PART_WHOLE
+about the syntax of natural	syntax of natural languages unconstrained mps	PART_WHOLE
+present a formalization of the	to modeling attentional structure in discourse and use	MODEL-FEATURE
+for an algorithm to track	to track discourse context and bind	USAGE
+in an hpsg natural language system which serves	to a database query application	USAGE
+theories while hpsg has a	more elaborated principle-based theory of possible	PART_WHOLE
+phrase structures tag provides the	to represent lexicalized structures more explicitly.	USAGE
+determine the projection of structures from the	from the lexicon and maximal	PART_WHOLE
+showed that boolean matrix multiplication (bmm) can be	used for cfg parsing we cfg	USAGE
+dual result: cfg parsers running in	running in time o(|g||w|3-e) on a	MODEL-FEATURE
+provide a formal definition of parsing	definition of parsing motivated by	MODEL-FEATURE
+fast, practical cfg parser would yield	fast, practical bmm algorithm which	RESULT
+paper introduces primitive optimality theory (otp) a ot	formalization of ot otp specifies	MODEL-FEATURE
+less restricted theories using generalized	theories using generalized alignment otp 's	USAGE
+'s optimal surface forms can be	generated with finite-state methods adapted from	USAGE
+unfortunately these methods take time	methods take time exponential on the size of the grammar indeed generation	MODEL-FEATURE
+indeed the generation problem is shown	is shown np-complete in this	MODEL-FEATURE
+automata where regular languages are represented	compactly via formal intersections of fsas	MODEL-FEATURE
+of 20 wall street journal articles from the	from the penn treebank corpus and our	PART_WHOLE
+to verify hardware designs by model	designs by model checking circuit specifications	USAGE
+model checking circuit specifications are commonly	in the temporal logic ctl automatic conversion	MODEL-FEATURE
+an appropriately restricted subset of english	subset of english we semantic	PART_WHOLE
+the limited semantic expressibility of ctl	expressibility of ctl can be	MODEL-FEATURE
+take existing computational semantic analyses of english	analyses of english as their	TOPIC
+that all sentences in the	in the subset possess a	PART_WHOLE
+present an unlexicalized parser for german	parser for german which employs	USAGE
+smoothing and suffix analysis to achieve	achieve a labelled bracket f-score of 76.2,	RESULT
+use of smoothing in an	in an unlexicalized parser allows us	USAGE
+proposes an alignment adaptation approach to improve	to improve domain-specific (in-domain) word alignment the alignment	USAGE
+to use out-of-domain corpus to improve	to improve in-domain word alignment results. in	USAGE
+the large-scale out-of-domain corpus and the	the small-scale in-domain corpus respectively, and	COMPARE
+approach improves domain-specific word alignment in terms	achieving a relative error rate reduction of 6.56%	RESULT
+a concise, modular architecture with reversible	processes of understanding and generation	PART_WHOLE
+with the interpretation of conceptual	interpretation of conceptual operations underlying the	MODEL-FEATURE
+reduced to functions of a	of a formal language thus si-nets	PART_WHOLE
+to the conceptual system of nl	system of nl for kl-one	MODEL-FEATURE
+version of kl-one which represents	represents the epistemological level while kl-conc	MODEL-FEATURE
+experimental language, kl-conc represents conceptual	represents the conceptual level kl-conc si-nets	MODEL-FEATURE
+the verb forms are often	kinds of information : 1.	MODEL-FEATURE
+whether the event described in	in a sentence is present	PART_WHOLE
+whether the event described in	in a sentence is presented	PART_WHOLE
+analysis of verb form meanings namely habituality	they express habituality the model-theoretic	MODEL-FEATURE
+for expressing relations between representations	relations between representations in the	MODEL-FEATURE
+desirable. a declarative formalism is presented	permits direct mappings of one	USAGE
+analysis of ellipsis resolution in terms	a straightforward discourse copying algorithm that correctly	MODEL-FEATURE
+distinction between full nps and the	and the referential elements that corefer	COMPARE
+the correct predictions for several	examples of ellipsis naturally result.	MODEL-FEATURE
+dividing sentences in chunks	sentences in chunks of words is a	PART_WHOLE
+"a ""convenient"" data representation for chunking"	representation for chunking by converting	USAGE
+seven different data representations for the	of recognizing noun phrase chunks we data	MODEL-FEATURE
+that the data representation choice has a	influence on chunking performance however, data	RESULT
+representation our memory-based learning chunker was able	best published chunking results for a	RESULT
+approaches to part-of-speech tagging statistical and	part-of-speech tagging statistical and constraint-based disambiguation using french	USAGE
+disambiguation using french as our	as our test language we constraint	USAGE
+of our constraint system was about	the easy-to-implement statistical model we accuracy	COMPARE
+of the statistical method is reasonably	comparable to taggers for english	COMPARE
+build robust automatic abstracting systems there training	for better training resources than are	USAGE
+introduce an annotation scheme for scientific	such a resource in a	USAGE
+of the subcategorization frames in which	which each verb occurs. the	MODEL-FEATURE
+of each verb in the	in the training corpus false positive	PART_WHOLE
+repositories of lexical conceptual structure (lcs) representations for verbs	representations for verbs in multiple	MODEL-FEATURE
+classification and thematic grid tagging and lcs	and outputs lcs representations for different	USAGE
+languages these representations have been	ported into english, arabic and spanish lexicons each verbs	USAGE
+using these lexicons in an	in an operational foreign language tutoring and machine	USAGE
+of an algorithm for translation lexicon acquisition (sable) used corpus	acquire general translation lexicons when algorithm	USAGE
+when that algorithm is applied	candidates for domain-specific translation lexicons	USAGE
+basis of coordinations of the	that involve strictly syntactic cross-serial agreement the agreement	MODEL-FEATURE
+question involves number in nouns	number in nouns and reflexive	MODEL-FEATURE
+nature because grammatical number in english	number in english like grammatical	PART_WHOLE
+english like grammatical gender in languages	such as french is interchange	PART_WHOLE
+even if english is presumed	to contain grammatical sentences in which	PART_WHOLE
+pair of coordinate phrases one of	has fewer conjuncts than the	PART_WHOLE
+be regarding constructions with unequal	numbers of conjuncts in the	PART_WHOLE
+examined a class-oriented framework for collecting	for collecting paraphrase examples in sentential	USAGE
+in which sentential paraphrases are collected	for each paraphrase class separately by	PART_WHOLE
+a flexible parser can deal	from its grammar in parser	PART_WHOLE
+by a construction-specific approach to flexible	approach to flexible parsing with specialized	USAGE
+parsing with specialized parsing techniques for each	type of construction and ambiguity	USAGE
+and specialized ambiguity representations for each	type of ambiguity that a	MODEL-FEATURE
+to. a construction-specific approach also aids	aids in task-specific language development by allowing	USAGE
+5, 8], plume's approach to parsing is based	based on semantic caseframe instantiation this efficiency	USAGE
+input while plume is well	to patchy syntactic coverage this plume	RESULT
+languages differ in	they have words and grammatical	PART_WHOLE
+approximating the meaning of a	of a source language text rather than	MODEL-FEATURE
+propose a translation framework based on	based on situation theory the information	USAGE
+lattice a representation scheme for utterances	scheme for utterances embedded in	MODEL-FEATURE
+and a mismatch resolution scheme defined in	terms of information flow we translation	MODEL-FEATURE
+examples of translation between english	translation between english and japanese	USAGE
+large-scale natural language generation requires the	amounts of knowledge : lexical,	USAGE
+conceptual. a robust generator must be	pieces of knowledge are missing.	USAGE
+built a hybrid generator in symbolic	filled by statistical methods we hybrid	USAGE
+simplify current generators and enhance	enhance their portability even knowledge	MODEL-FEATURE
+terms across languages with different	with different alphabets and sound	MODEL-FEATURE
+computer in english comes out	(konpyuutaa) in japanese translating japanese	COMPARE
+for performing backwards transliterations by machine	transliterations by machine this generative	USAGE
+uses a generative model incorporating transliteration	in the transliteration process	USAGE
+such as speech processing in which	is important finite-state models are often	USAGE
+derive a finite-state approximation which can	to guide speech recognition or to	USAGE
+present a statistical model of japanese	model of japanese unknown words consisting of	MODEL-FEATURE
+by the character types that constitute	constitute a word the character	PART_WHOLE
+important because japanese script has both	has both ideograms like chinese	PART_WHOLE
+discusses a decision-tree approach to the	of assigning probabilities to words	USAGE
+probabilities to words following a	a given text in decision-tree	PART_WHOLE
+describes a full scale two-level morphological description (karttunen, 1983;	1983) of turkish word structures the pc-kimmo	MODEL-FEATURE
+on a root word lexicon of about	about 23,000 roots words almost phonological	PART_WHOLE
+been implemented. turkish is an	is an agglutinative language with word	MODEL-FEATURE
+constructs the surface realizations of morphological	realizations of morphological constructions are constrained	MODEL-FEATURE
+of different text applications to use	set of common text processing modules since user	USAGE
+no particular user interface styles or conventions are described	in the tipster architecture specification however, computing	TOPIC
+constructed several tipster applications that use	of configurable graphical user interface (gui) functions these guis	USAGE
+functions these guis were constructed	constructed using crl's tipster user interface toolkit (tuit) tuit is	USAGE
+is a software library that can	to construct multilingual tipster user interfaces for a	USAGE
+what extent deep processing may benefit	benefit from shallow techniques and it	USAGE
+presents a nlp system which integrates	integrates a linguistic pos tagger and chunker as a	PART_WHOLE
+also provides robustness to the	to the linguistic processing while maintaining	MODEL-FEATURE
+and the precision of the	of the grammar	RESULT
+a state-of-the-art statistical parser (bikel, 2004)	in parsing written and spoken language and in	USAGE
+language although bikel's parser achieves a	a higher accuracy for parsing	RESULT
+technology for extracting subcategorization frames initially designed	designed for written texts works equally	USAGE
+utility of punctuation in helping	in helping parsing and extraction	USAGE
+and extracting subcategorization cues from spoken	cues from spoken language this punctuation	PART_WHOLE
+to add punctuation in transcribing	in transcribing spoken corpora simply in	PART_WHOLE
+describes a characters-based chinese collocation system and discusses	a traditional word-based system since wordbreaks	COMPARE
+system since wordbreaks are not	marked in chinese text corpora a character-based	PART_WHOLE
+information furthermore, word-based collocational properties can be	module of automatic segmentation	USAGE
+an efficient bit-vector-based cky-style parser for context-free	parser for context-free parsing is presented.	USAGE
+a compact parse forest representation of the	of possible analyses for large treebank grammars and long	MODEL-FEATURE
+sentences the parser uses bit-vector	parser uses bit-vector operations to parallelise	USAGE
+both a language model for answers	model for answers and a	USAGE
+and a transformation model for answer/question	model for answer/question terms trained corpus	USAGE
+on a corpus of 1	1 million question/answer pairs collected from	PART_WHOLE
+many current information extraction techniques is severely	need for supervised training data we field	USAGE
+for certain field structured extraction tasks such prior	amounts of prior knowledge can be	USAGE
+a suitable generative model for field	model for field structured text general unsupervised	MODEL-FEATURE
+found that unsupervised methods can attain	can attain accuracies with 400	RESULT
+and that semi-supervised methods can make	amounts of labeled data	USAGE
+on accurate semantic role labeling previous independent	largely used independent classifiers possibly label	USAGE
+with strong dependencies between arguments	dependencies between arguments we joint	MODEL-FEATURE
+build a joint model of argument	model of argument frames incorporating features	MODEL-FEATURE
+incorporating novel features that model	interactions into discriminative log-linear models this error	PART_WHOLE
+classifier for gold-standard parse trees on propbank	trees on propbank	PART_WHOLE
+of reading texts (from a	(from a target corpus ) that	PART_WHOLE
+a specialized vocabulary for an	as the target vocabulary and used	USAGE
+and used english wikipedia a target	as the target corpus the target	USAGE
+described: the syntactic analyzer based procedural	on a procedural systemic grammar the semantic	USAGE
+grammar the semantic analyzer relying on	on the conceptual dependency theory and dictionary	USAGE
+deal with french tenses in the	framework of discourse representation theory is presented,	MODEL-FEATURE
+express the meaning of the	of the tenses the reichenbachian	MODEL-FEATURE
+to the meaning of the	of the text is understood	MODEL-FEATURE
+of the events of a	of a sentence in the	PART_WHOLE
+in the event structure of the	the preceeding text thereby system	MODEL-FEATURE
+by the temporal adverbials of the	of the sentence being processed	PART_WHOLE
+the exact meaning of the	of the tenses is fixed	MODEL-FEATURE
+by the resolution component and not	process of syntactic analysis	COMPARE
+introducing these languages is to	for formalising grammatical frameworks perspicuously, and	MODEL-FEATURE
+ideas of gpsg can be	captured in lt (lf) in modal	COMPARE
+benefits of tree adjoining grammars is that	have an extended domain of locality (edol) we feature	MODEL-FEATURE
+need for feature structure unification during parsing	unification during parsing we lexicalized	USAGE
+of english lexsys and xtag	lexsys and xtag finding grammars	COMPARE
+the two grammars exploit edol	grammars exploit edol in different	USAGE
+account of sentence-level and text-level anaphora within the	of a dependency-based grammar model criteria anaphora	MODEL-FEATURE
+those for text-level anaphora incorporate an	of a grosz-sidner-style focus model	MODEL-FEATURE
+use of heuristic rules whose development	requires intense knowledge engineering our speech	USAGE
+features and decision strategies are discovered	body of speech data this	USAGE
+method of sense resolution is proposed	based on wordnet an lexical	USAGE
+an on-line lexical database that incorporates	that incorporates semantic relations ( synonymy	PART_WHOLE
+senses with wordnet it semantically	sets of semantically related words a sense	PART_WHOLE
+used for sense resolution during text	resolution during text processing as word	PART_WHOLE
+when a word with multiple	with multiple senses is encountered,	MODEL-FEATURE
+a large textual corpus will then	for these derived strings ; and	PART_WHOLE
+to the derived string that is	in the corpus or, context	PART_WHOLE
+(2) the context of the	of the polysemous word will be	MODEL-FEATURE
+; all words found to	in that context will be	MODEL-FEATURE
+be noted; wordnet will then	estimate the semantic distance from those	USAGE
+to other words occurring in	the same context if successful,	MODEL-FEATURE
+how the morphological component of an	an existing nlp-system for dutch (dutch medical language processor - dmlp) has been	PART_WHOLE
+with the language independent modules of the	of the lsp-mlp system (linguistic string project - medical language processor) of the	PART_WHOLE
+focusing on idiosyncrasies for dutch	idiosyncrasies for dutch this patient	PART_WHOLE
+constructing a subcategorization dictionary from textual	dictionary from textual corpora each dictionary	USAGE
+encodes the relative frequency of occurrence of a	set of subcategorization classes for english	MODEL-FEATURE
+of 14 verbs which exhibit	which exhibit multiple complementation patterns demonstrates accuracy	MODEL-FEATURE
+that a subcategorization dictionary built with	improves the accuracy of a	RESULT
+shows how dictionary word sense definitions can be	hierarchy of phrasal patterns an definitions	USAGE
+for processing definitions from the	from the longman dictionary of contemporary english a dictionary	PART_WHOLE
+uses a restricted vocabulary in its	in its word sense definitions the classification	USAGE
+of new word senses in terms	of the senses of words	MODEL-FEATURE
+senses of words in the	in the restricted vocabulary examples phrasal	PART_WHOLE
+of the definitions are produced	relatively robust analysis mechanism thus robustness	TOPIC
+addresses two robustness problems faced by	current experimental natural language processing systems : coping	MODEL-FEATURE
+presents an evaluation method employing a	employing a latent variable model for paraphrases	USAGE
+model for paraphrases with their	with their contexts we context	MODEL-FEATURE
+that the context of a	of a sentence is indicated	MODEL-FEATURE
+by a latent variable of the	of the model as a	PART_WHOLE
+that the likelihood of each	of each variable can be	MODEL-FEATURE
+whether its sentences are used	the same context experimental accuracy	MODEL-FEATURE
+bound of accuracy of 77%	using only topic information	RESULT
+proposed, allowing non-terminals to consist	sequences of category labels and schematic	PART_WHOLE
+strongly adequate grammar for crossed	grammar for crossed serial dependencies as dutch	USAGE
+an existing parsing method for gpsg	method for gpsg	USAGE
